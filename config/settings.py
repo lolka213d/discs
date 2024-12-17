@@ -24,6 +24,3 @@ SUPPORTED_FORMATS = ['mp3', 'm4a', 'wav']
 MAX_SEARCH_RESULTS = 10
 SEARCH_TIMEOUT = 30  # seconds
 
-# Other settings
-DEFAULT_LANGUAGE = 'en'
-AVAILABLE_LANGUAGES = ['en', 'ru', 'ua']
