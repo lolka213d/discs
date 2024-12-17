@@ -1,11 +1,11 @@
 # Bot settings
-TOKEN = "7556565687:AAF46_cZ_Pjpx045ssPye8fcbq46nszeOQk"
+TOKEN = ""
 DOWNLOADS_DIR = "downloads"
 DB_FILE = "music_bot.db"
 
 # API Keys
-SPOTIFY_CLIENT_ID = "267f27acdc5846a7a85f23290e53c755"
-SPOTIFY_CLIENT_SECRET = "35596835a624473b8474ec2ce03d6f04"
+SPOTIFY_CLIENT_ID = ""
+SPOTIFY_CLIENT_SECRET = ""
 
 # Database settings
 MYSQL_CONFIG = {
